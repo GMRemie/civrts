@@ -1,0 +1,7 @@
+"civrts"
+{
+	"base"		"sandbox"
+	"title"		"RTS"
+	"maps"		"^sf_|^ov_"
+	"menusystem"	"1"
+}
